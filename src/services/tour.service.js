@@ -1,5 +1,5 @@
 import axios from "axios";
-const API_URL = "http://localhost:8080/api/tour";
+const API_URL = "https://scy-japan-travel-mern-api.onrender.com/api/tour";
 
 class TourService {
   //get token   let token;
